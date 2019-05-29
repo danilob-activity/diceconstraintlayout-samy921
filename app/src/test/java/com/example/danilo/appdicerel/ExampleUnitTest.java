@@ -1,4 +1,4 @@
-package com.example.danilo.appdice;
+package com.example.danilo.appdicerel;
 
 import org.junit.Test;
 

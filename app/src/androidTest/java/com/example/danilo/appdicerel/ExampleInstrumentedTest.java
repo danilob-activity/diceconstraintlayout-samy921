@@ -1,4 +1,4 @@
-package com.example.danilo.appdice;
+package com.example.danilo.appdicerel;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
